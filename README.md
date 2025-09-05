@@ -7,6 +7,7 @@ I'm a **DevOps enthusiast** who loves **automation, building pipelines, deployin
 
  **Containers & Orchestration:** Docker 🐳, Kubernetes ☸️, Helm ⛵  
  **CI/CD Pipelines:** Jenkins ⚙️, GitLab 🦊 
+ 
  **Infrastructure as Code:** Terraform 🌍, Ansible 🤖  
  **Monitoring & Observability:** Prometheus 📊, Grafana 📈  
  **Version Control:** Git, GitHub 🖇️  
