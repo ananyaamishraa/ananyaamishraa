@@ -6,7 +6,7 @@ I'm a **DevOps enthusiast** who loves **automation, building pipelines, deployin
 ## ✨ Here’s what I use on a daily basis:  
 
  **Containers & Orchestration:** Docker 🐳, Kubernetes ☸️, Helm ⛵  
- **CI/CD Pipelines:** Jenkins ⚙️, GitLab 🦊
+ **CI/CD Pipelines:** Jenkins ⚙️, GitLab 🦊  
  **Infrastructure as Code:** Terraform 🌍, Ansible 🤖  
  **Monitoring & Observability:** Prometheus 📊, Grafana 📈  
  **Version Control:** Git, GitHub 🖇️  
@@ -23,6 +23,6 @@ I'm a **DevOps enthusiast** who loves **automation, building pipelines, deployin
 ## 📫 How To Reach Me:
 
  **Shoot Me an E-Mail:** [ananyamishra0403@gmail.com](mailto:ananyamishra0403@gmail.com)  😀
- **Connect on LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/ananya-mishra-3351272b5-devops/)  😀
-Feel free to connect! 😄 
+ **Connect on LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/ananya-mishra-3351272b5-devops/)  😀  
+ Feel free to connect! 😄 
 
