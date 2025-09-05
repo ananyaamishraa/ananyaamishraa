@@ -24,6 +24,5 @@ I'm a **DevOps enthusiast** who loves **automation, building pipelines, deployin
 
  **Shoot Me an E-Mail:** [ananyamishra0403@gmail.com](mailto:your-email@example.com)  😀
  **Connect on LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/your-linkedin)  😀
-
-## Feel free to connecct! 😄 
+## Feel free to connect! 😄 
 
