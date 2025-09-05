@@ -3,7 +3,7 @@
 I'm a **DevOps enthusiast** who loves **automation, building pipelines, deploying apps, and exploring new DevOps tools and technologies** (everything that makes applications smooth, scalable and lightweight) 🚀
 
 
-## ✨ Here’s what I use on a daily basis:  
+## ✨ Here’s what I use everyday:  
 
  **Containers & Orchestration:** Docker 🐳, Kubernetes ☸️, Helm ⛵  
  **CI/CD Pipelines:** Jenkins ⚙️, GitLab 🦊  
