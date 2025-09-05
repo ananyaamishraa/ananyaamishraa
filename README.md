@@ -15,8 +15,8 @@ I'm a **DevOps enthusiast** who loves **automation, building pipelines, deployin
 
 ## 🌱 What I'm currently learning
 
- ArgoCD ⛵
- GitHub Actions ⚡
+ ArgoCD ⛵  
+ GitHub Actions ⚡  
  AWS Services ☁️
 
 
