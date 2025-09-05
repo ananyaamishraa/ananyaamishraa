@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋, I'm Ananya Mishra 😁
 
-<!--
-**ananyaamishraa/ananyaamishraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **DevOps enthusiast** who loves **automation, building pipelines, deploying apps, and exploring new DevOps tools and technologies** (everything that makes applications smooth, scalable and lightweight) 🚀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Here’s what I use on a daily basis:  
+
+ **Containers & Orchestration:** Docker 🐳, Kubernetes ☸️, Helm ⛵  
+ **CI/CD Pipelines:** Jenkins ⚙️, GitLab 🦊 
+ **Infrastructure as Code:** Terraform 🌍, Ansible 🤖  
+ **Monitoring & Observability:** Prometheus 📊, Grafana 📈  
+ **Version Control:** Git, GitHub 🖇️  
+ **Project Management & Issue Tracking:** Jira 📝
+
+
+## 🌱 What I'm currently learning
+
+ ArgoCD ⛵
+ GitHub Actions ⚡
+ AWS Services ☁️
+
+
+## 📫 How To Reach Me:
+
+ **Shoot Me an E-Mail:** [ananyamishra0403@gmail.com](mailto:your-email@example.com)  😀
+ **Connect on LinkedIn:** [linkedin-profile](https://www.linkedin.com/in/your-linkedin)  😀
+
+## Feel free to connecct! 😄 
+
