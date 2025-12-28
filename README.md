@@ -5,6 +5,7 @@ I'm a **DevOps enthusiast** who loves **automation, building pipelines, deployin
 
 ## ✨ Here’s what I use everyday:  
 
+ **Scripting Languages:** Bash ⌨️, Python 🐍
  **Containers & Orchestration:** Docker 🐳, Kubernetes ☸️, Helm ⛵  
  **CI/CD Pipelines:** Jenkins ⚙️, GitLab 🦊  
  **Infrastructure as Code:** Terraform 🌍, Ansible 🤖  
@@ -17,7 +18,7 @@ I'm a **DevOps enthusiast** who loves **automation, building pipelines, deployin
 
  ArgoCD ⛵  
  GitHub Actions ⚡  
- AWS Services ☁️
+ Agentic AI 🤖
 
 
 ## 📫 How To Reach Me:
